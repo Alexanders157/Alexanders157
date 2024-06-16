@@ -17,6 +17,7 @@ Activities at previous job:
 - Provided timely technical support to staff: Resolved technical problems of staff and, by reducing errors and bugs of various kinds, reduced repeat incidents, in addition, provided training to staff, improving their technical skills.
 
 My contact to get in touch:
+
 E-mail: Alexander.157@yandex.ru
 
 Linkedin: https://www.linkedin.com/in/alexander-kozak157
