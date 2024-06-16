@@ -18,4 +18,5 @@ Activities at previous job:
 
 My contact to get in touch:
 E-mail: Alexander.157@yandex.ru
+
 Linkedin: https://www.linkedin.com/in/alexander-kozak157
