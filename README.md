@@ -24,10 +24,9 @@ I aspire to become a highly skilled PHP Laravel Backend Developer and make meani
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)
-![UnitTests](https://img.shields.io/badge/-Unit%20Tests-8F0A1A?style=flat-square&logo=testing-library)
-![PSR](https://img.shields.io/badge/-PSR-4E525A?style=flat-square&logo=php)
 ![SOLID](https://img.shields.io/badge/-SOLID-8B9467?style=flat-square&logo=solid)
 ![MVC](https://img.shields.io/badge/-MVC-8F0A1A?style=flat-square&logo=architecture)
+![CMS](https://img.shields.io/badge/-CMS-007ACC?style=flat-square)
 
 
 ## 🧠 Soft skills:
