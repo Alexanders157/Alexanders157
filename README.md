@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alexander!
 ## 🛠️About Me:
-I am a beginner **PHP Backend developer**, actively looking for opportunities for professional implementation and development in this area. Difficulties and the amount of work do not scare me - I am ready to learn and move forward! 📈
+**PHP Backend developer.**
 
 💼 I have experience in the IT sphere, though in a different field: I was a database administrator and a system administrator. 
 
@@ -25,6 +25,8 @@ I aspire to become a highly skilled PHP Laravel Backend Developer and make meani
 ![SOLID](https://img.shields.io/badge/-SOLID-8B9467?style=flat-square&logo=solid)
 ![MVC](https://img.shields.io/badge/-MVC-8F0A1A?style=flat-square&logo=architecture)
 ![CMS](https://img.shields.io/badge/-CMS-007ACC?style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-007EC6?style=flat-square&logo=linux)
+![Bitrix](https://img.shields.io/badge/-Bitrix-007ACC?style=flat-square) 
 
 
 ## 🧠 Soft skills:
