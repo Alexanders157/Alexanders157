@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Alexander!
 ## 🛠️About Me:
-**PHP Backend developer.**
+**PHP Laravel Backend developer.**
 
-💼 I have experience in the IT sphere, though in a different field: I was a database administrator and a system administrator. 
+💡 Have non-profit experience developing small projects in Laravel, which you can see in my GitHub profile.
 
-💡 In the context of Laravel, I have experience developing small projects, which you can read about in my GitHub profile.
+💼 At this stage, I am continuing my commercial development experience in an IT company.
 
 🤝 Open to discussing any terms of cooperation.
 
