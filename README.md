@@ -43,14 +43,12 @@ I aspire to become a highly skilled PHP Laravel Backend Developer and make meani
 
 * Communication skills.
 
-## 💼 Activities at previous job:
-- Worked with MySQL DBMS: Composed and optimized SQL queries to retrieve data from the database, speeding up retrieval of necessary information. Organized new tables and columns of the database, as well as removed unnecessary ones, freeing up storage space and improving database performance. In general, I have experience with such software as: MySQL Workbench, phpMyAdmin, DBeaver. 
-- Administered the company's website under CMS "1C-Bitrix: Site Management": Integrated custom PHP plugins to improve the functionality of the corporate website. Optimized the work of the site by adding new sections and elements, improving navigation for users. For example, implemented a navigation system on the site to find the desired sections by integrating a draw.io created layout into the site. Placed news and other various kinds of information on the site.
-- Administered the Bitrix24 company management service: Managed employee accounts, added new ones, fixed bugs in the service, made rights differentiation, added new sections.
-- Administered the accounting software product "1C:Accounting": Conducted regular data backup and recovery, which ensured data safety without loss, and installed software updates.
-- Administered Active Directory: Configured password and account lockout policies, which reduced the number of security incidents. Optimized and standardized group and role policies, which improved the performance of the work environment, and simplified the management of user and computer settings. 
-- Administered the organization's email: Optimized email performance by configuring IMAP and POP server settings, resulting in reduced email synchronization time and email-related problems. 
-- Configured personal computers: Resolved errors and bugs in both the BIOS and the Windows OS itself and the programs installed on it, preventing downtime for employees.
+## 💼 My activities at work:
+- Using Laravel framework developed and implemented RESTful API for social network (including creation of controllers, routes, models, resources and so on) with various functionalities such as: authentication and authorization using Sanctum, profile management, interaction with content and between users and so on. Also wrote Feature tests for the project, using PHPUnit to provide validation of business logic and API functionality. 
+- Worked using Git version control tool and Bitbucket service: managed the source code, created feature branches for new features and fixes, as well as merging changes to the main branch, created pull requests to reconcile changes before integrating them, and participated in code review, which helped improve code quality.
+- Compiled OpenAPI documentation, which included a description of all available endpoints, query parameters, response formats, and error codes.
+- Designed the database, implemented relationships between tables, including one-to-many and many-to-many relationships to support queries and operations. Created UML diagrams to visualize system architecture and interactions between different API components.
+- Worked as a team member in Jira task management systems, and gained experience in Agile methodologies and improved team development skills.
 - Provided timely technical support to staff: Resolved technical problems of staff and, by reducing errors and bugs of various kinds, reduced repeat incidents, in addition, provided training to staff, improving their technical skills.
 ## 🤝  Communication:
 
